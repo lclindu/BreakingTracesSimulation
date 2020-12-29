@@ -1,2 +1,2 @@
 # BreakingTracesSimulation
-Simulation of breaking Traces  with differenct group.
+Simulation of breaking Traces  with different group.
